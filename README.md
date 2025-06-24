@@ -31,54 +31,44 @@ Team 3 is responsible for building the core backend infrastructure to support va
 ## Getting Started
 
 ### 1. Clone the Repo
-
-\`\`\`bash
 git clone git@github.com:hsv8962/Alambda_project_team_3.git
 cd Alambda_project_team_3
-\`\`\`
+
 
 ### 2. Set Up Virtual Environment
-
-\`\`\`bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\\Scripts\\activate
 pip install -r requirements.txt
-\`\`\`
+
 
 ### 3. Run the Application
-
-\`\`\`bash
 python main.py
-\`\`\`
+
 
 ---
 
 ## Project Structure (Planned)
 
-\`\`\`
-
 Alambda_project_team_3/
-    ├── api/             # Flask/FastAPI route handlers
-    ├── services/        # Business logic & automation tools
-    ├── models/          # Database models and ORM mappings
-    ├── utils/           # Utility modules
-    ├── static/          # Static assets (if needed)
-    ├── templates/       # HTML templates (optional)
-    ├── main.py          # Entry point
-    ├── .gitignore
-    ├── requirements.txt
-    └── README.md
+    api/             # Flask/FastAPI route handlers
+    services/        # Business logic & automation tools
+    models/          # Database models and ORM mappings
+    utils/           # Utility modules
+    static/          # Static assets (if needed)
+    templates/       # HTML templates (optional)
+    main.py          # Entry point
+    .gitignore
+    requirements.txt
+    README.md
 
-
-\`\`\`
 
 ---
 
 ## Team Roles & Contacts
 
 - **Team Lead:** Pascual Villar  
-- **Backend Developers:** [Insert Names]  
-- **Mentor:** [Insert Name]
+- **Backend Developers:**  
+- **Mentor:** 
 
 ---
 
@@ -101,6 +91,5 @@ To contribute:
 ---
 
 ## License
-
 This project is internal to the Alambda Cadet Academy and not licensed for public distribution.
 EOF
