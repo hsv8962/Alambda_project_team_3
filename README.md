@@ -31,8 +31,7 @@ Team 3 is responsible for building the core backend infrastructure to support va
 ## Getting Started
 
 ### 1. Clone the Repo
-git clone git@github.com:hsv8962/Alambda_project_team_3.git
-cd Alambda_project_team_3
+
 
 
 ### 2. Set Up Virtual Environment
