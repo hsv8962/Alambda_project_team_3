@@ -1,4 +1,4 @@
-cat > README.md <<EOF
+
 # Alambda Project – Team 3: Python Software Development
 
 Welcome to Team 3's repository! This backend-focused project supports Alambda’s platform through RESTful APIs, automation tools, and AI chatbot integration.
