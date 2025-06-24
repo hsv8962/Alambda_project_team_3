@@ -56,18 +56,21 @@ python main.py
 ## Project Structure (Planned)
 
 \`\`\`
+## Project Structure (Planned)
+
 Alambda_project_team_3/
-│
-├── api/                   # Flask/FastAPI route handlers
-├── services/              # Business logic & automation tools
-├── models/                # Database models and ORM mappings
-├── utils/                 # Utility modules
-├── static/                # Static assets (if needed)
-├── templates/             # HTML templates (optional)
-├── main.py                # Entry point
-├── .gitignore
-├── requirements.txt
-└── README.md
+    ├── api/             # Flask/FastAPI route handlers
+    ├── services/        # Business logic & automation tools
+    ├── models/          # Database models and ORM mappings
+    ├── utils/           # Utility modules
+    ├── static/          # Static assets (if needed)
+    ├── templates/       # HTML templates (optional)
+    ├── main.py          # Entry point
+    ├── .gitignore
+    ├── requirements.txt
+    └── README.md
+
+
 \`\`\`
 
 ---
