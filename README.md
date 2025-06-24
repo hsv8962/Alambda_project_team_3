@@ -50,6 +50,7 @@ python main.py
 ## Project Structure (Planned)
 
 Alambda_project_team_3/
+
     api/             # Flask/FastAPI route handlers
     services/        # Business logic & automation tools
     models/          # Database models and ORM mappings
