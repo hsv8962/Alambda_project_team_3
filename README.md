@@ -56,7 +56,6 @@ python main.py
 ## Project Structure (Planned)
 
 \`\`\`
-## Project Structure (Planned)
 
 Alambda_project_team_3/
     ├── api/             # Flask/FastAPI route handlers
